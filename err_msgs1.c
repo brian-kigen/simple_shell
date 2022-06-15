@@ -1,7 +1,7 @@
 /*
  * File: err_msgs1.c
- * Auth: Flovian owiti
- *       Victor azangu
+ * Auth: Nicholus Oduor
+ *       Brian Kipkoech
  */
 
 #include "main.h"

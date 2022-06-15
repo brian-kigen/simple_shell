@@ -1,7 +1,7 @@
 /*
  * File: err.c
- * Auth: Flovian owiti
- *       Victor azangu
+ * Auth: Brian Kipkoech
+ *       Nicholus Oduor
  */
 
 #include "main.h"

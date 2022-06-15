@@ -283,6 +283,6 @@ $
 
 ## Authors :black_nib:
 
-Esther Muthui <<https://github.com/estarmalkia>
-Emmanuel Saura <https://github.com/emmanuel354>
+Brian Kipkoech <https://github.com/brian-kigen>
+Nicholas Oduor Owino <https://github.com/Oduoronyina>
 
