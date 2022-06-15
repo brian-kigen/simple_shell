@@ -1,7 +1,7 @@
 /*
  * File: built.c
- * Auth: Flovian owiti
- *       Victor azangu
+ * Auth: Nicholus Oduor
+ *       Brian kipkoech
  */
 
 #include "main.h"
